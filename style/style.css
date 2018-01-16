@@ -1,0 +1,9 @@
+.b-form-row {
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.b-form-error {
+  position: absolute;
+  bottom: -20px;
+}
